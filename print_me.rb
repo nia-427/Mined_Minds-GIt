@@ -1,1 +1,4 @@
-print (num**2).to_s + ""
+10.times do |n|
+	n += 1
+	p n
+end
